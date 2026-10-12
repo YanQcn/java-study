@@ -1,0 +1,30 @@
+# ---- Java / Maven ----
+target/
+**/target/
+*.class
+*.jar
+
+# ---- IDE ----
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.classpath
+.project
+.settings/
+.factorypath
+.apt_generated
+
+# ---- OS ----
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ---- WorkBuddy 本地数据（含个人笔记，不入库）----
+.workbuddy/
+
+# ---- 临时 / 备份 ----
+*.bak
+*.log
+*.zip
